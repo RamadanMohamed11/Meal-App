@@ -39,7 +39,7 @@ Make sure you have the Flutter SDK installed on your machine.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your_username/meal_app.git
+   git clone https://github.com/RamadanMohamed11/meal_app.git
    ```
 2. Navigate to the project directory:
    ```sh
