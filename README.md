@@ -1,4 +1,7 @@
 # Meal App
+- **[Youtube Link](https://www.youtube.com/watch?v=GwlpSdydZyY)**
+- **[LinkedIn Link](https://www.linkedin.com/posts/ramadan-mohamed-31624a220_flutter-hive-cubit-activity-7357404755247169537-10Ms?utm_source=share&utm_medium=member_desktop&rcm=ACoAADeQoUIBl2vxR13kgtVEp1n7BYjgYZuNzrI)**
+
 
 A beautiful and user-friendly meal discovery application built with Flutter. Browse recipes, save your favorites, and enjoy a smooth, animated interface.
 
