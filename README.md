@@ -24,7 +24,7 @@ This project is designed to showcase a clean architecture using the BLoC pattern
 ### Favorites View
 ![Favorites Screenshot](assets/screenshots/Favorites_View.png)
 ### Drawer View
-![Drawer Screenshot](assets/screenshots/Drawer_View.png)
+![Drawer Screenshot](assets/screenshots/Drawer_view.png)
 
 ## Getting Started
 
